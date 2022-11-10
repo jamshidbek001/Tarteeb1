@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33027.239
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarteeb1.Api", "Tarteeb1.Api\Tarteeb1.Api.csproj", "{144E5C21-0643-477B-ADF5-13DDD27357E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tarteeb1.Api", "Tarteeb1.Api\Tarteeb1.Api.csproj", "{144E5C21-0643-477B-ADF5-13DDD27357E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarteeb1.Api.Infrastructure.Build", "Tarteeb1.Api.Infrastructure.Build\Tarteeb1.Api.Infrastructure.Build.csproj", "{786E1BD0-138B-4BC3-BB5C-325F01AB487B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{144E5C21-0643-477B-ADF5-13DDD27357E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{144E5C21-0643-477B-ADF5-13DDD27357E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{144E5C21-0643-477B-ADF5-13DDD27357E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{786E1BD0-138B-4BC3-BB5C-325F01AB487B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{786E1BD0-138B-4BC3-BB5C-325F01AB487B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{786E1BD0-138B-4BC3-BB5C-325F01AB487B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{786E1BD0-138B-4BC3-BB5C-325F01AB487B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
