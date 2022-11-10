@@ -349,3 +349,6 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 /Tarteeb1.Api/appsettings.Development.json
+/Tarteeb1.Api/Brokers/Storages/StorageBroker.cs
+/Tarteeb1.Api/Brokers/Storages/StorageBroker.Tasks.cs
+/Tarteeb1.Api/Models/Tasks
